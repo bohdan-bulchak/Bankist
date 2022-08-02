@@ -1,0 +1,15 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "Bank application",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Bohdan Bulchak",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  }
+}
